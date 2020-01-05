@@ -1,0 +1,4 @@
+Source: helgoboss-learn
+Version: 2020-01-05
+Build-Depends: ms-gsl, nlohmann-json, boost-optional, boost-algorithm, boost-variant, rxcpp, helgoboss-midi, wdl-eel2
+Description: Reusable C++ code for implementing (MIDI-)learn functionality

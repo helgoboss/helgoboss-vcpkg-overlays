@@ -1,0 +1,3 @@
+Source: wdl-eel2
+Version: 2020-01-05
+Description: EEL2 expression evaluation library/realtime compiler (from WDL library by Cockos Incorporated)
