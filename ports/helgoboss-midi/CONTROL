@@ -1,0 +1,4 @@
+Source: helgoboss-midi
+Version: 2020-01-04
+Build-Depends: ms-gsl
+Description: Reusable C++ code for dealing with MIDI messages
