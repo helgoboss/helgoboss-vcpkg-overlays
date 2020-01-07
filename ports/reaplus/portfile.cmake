@@ -2,8 +2,8 @@ include(vcpkg_common_functions)
 vcpkg_from_github(
     OUT_SOURCE_PATH SOURCE_PATH
     REPO helgoboss/reaplus
-    REF e217197a212456cf7cc5f9242ee6b8860eb2872d
-    SHA512 825c3bca0e98c52eab7dc662be21d47014bf66730128e867c84baddec4d20e3c62bb73fb53f8232bcc011c5191237d112be44c45ddd0f2f23cbffce7b73aaa09
+    REF 8cf6e22319674824401d5d25bb3d5de8f28f5cff
+    SHA512 1
     HEAD_REF master
 )
 vcpkg_configure_cmake(
