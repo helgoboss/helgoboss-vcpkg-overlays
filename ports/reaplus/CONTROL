@@ -1,0 +1,4 @@
+Source: reaplus
+Version: 2020-01-07
+Build-Depends: rxcpp, boost-optional, boost-utility, boost-filesystem, boost-exception, boost-range, boost-algorithm, concurrentqueue, spdlog, helgoboss-midi, helgoboss-learn
+Description: Modern reactive C++ facade for the REAPER SDK
